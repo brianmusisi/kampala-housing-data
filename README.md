@@ -1,6 +1,6 @@
 # Web Scraping Kampala House Data
 
-This project covers web scraping of house data from the [Jumia House website](house.jumia.ug/). 
+This project covers web scraping of house data from the [Jumia House website](http://house.jumia.ug/). 
 
 * Clone the project:
 
