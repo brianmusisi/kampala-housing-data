@@ -12,7 +12,8 @@ This project covers web scraping of house data from the [Jumia House website](ho
 
 In the terminal enter the command below: 
 
-``` python gethouses.py num_pages > houses.csv
+```
+python gethouses.py num_pages > houses.csv
 ```  
 
 where num_pages is he number of pages to be scraped from the website. The default is 10 pages if num_pages is not provided.  
