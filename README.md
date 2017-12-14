@@ -4,7 +4,8 @@ This project covers web scraping of house data from the [Jumia House website](ho
 
 * Clone the project:
 
-``` git clone https://github.com/brianmusisi/kampala-housing-data.git
+```
+git clone https://github.com/brianmusisi/kampala-housing-data.git
 ```
 
 
